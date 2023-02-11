@@ -18,9 +18,10 @@ clean code is happy code!
 <img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <br />
 
-<!--
-**TIit0/Tiit0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <a href="https://www.data-card-for-spotify.com/card?user_id=44qk7od8awu5azhtk7icqespk">
   <img src="https://www.data-card-for-spotify.com/api/card?user_id=44qk7od8awu5azhtk7icqespk" alt="Data Card for Spotify">
 </a>
+
+<!--
+**TIit0/Tiit0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
