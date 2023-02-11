@@ -1,5 +1,5 @@
 ### Hi there I'm Tito 👋
-I am a Frontend developer interested in web and applications, I have been doing develpment for over a year now nd i just love it more and more with each new thing I learn. 
+I am a Frontend developer interested in web and applications, I have been doing develpment for over a year now and I just love it more and more with each new thing I learn. 
 I am Always looking for the next challenge to develop my skills, I am currently working between Guadalajara Jalisco Mexico, and San Diego California USA.
 
 clean code is happy code!
@@ -21,5 +21,3 @@ clean code is happy code!
 <!--
 **TIit0/Tiit0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v1.1.4
