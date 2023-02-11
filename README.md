@@ -1,4 +1,8 @@
 ### Hi there I'm Tito 👋
+I am a Frontend developer interested in web and applications, I have been doing develpment for over a year now nd i just love it more and more with each new thing I learn. 
+I am Always looking for the next challenge to develop my skills, I am currently working between Guadalajara Jalisco Mexico, and San Diego California USA.
+
+clean code is happy code!
 
 ### 🧰 Languages and Tools
 
@@ -11,6 +15,7 @@
 <img align="left" alt="Next" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <br />
 
 <!--
