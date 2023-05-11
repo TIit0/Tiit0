@@ -18,7 +18,16 @@ clean code is happy code!
 <img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <br /> <br /> <br />
-
+<table>
+<tr>
+      <td>
+         <img alt="Git-Leon's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TIit0&show_icons=true&theme=dracula">         
+      </td>
+      <td>
+         <img alt="Git-Leon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIit0&layout=compact&theme=dracula&hide=roff,tsql,c">
+      </td>
+   </tr>
+</table>
 ### :musical_note: stuff I listen while working:
 <a href="https://www.data-card-for-spotify.com/card?user_id=44qk7od8awu5azhtk7icqespk">
   <img src="https://www.data-card-for-spotify.com/api/card?user_id=44qk7od8awu5azhtk7icqespk" alt="Data Card for Spotify">
