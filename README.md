@@ -28,6 +28,8 @@ clean code is happy code!
       </td>
    </tr>
 </table>
+<br /> <br />
+
 ### :musical_note: stuff I listen while working:
 <a href="https://www.data-card-for-spotify.com/card?user_id=44qk7od8awu5azhtk7icqespk">
   <img src="https://www.data-card-for-spotify.com/api/card?user_id=44qk7od8awu5azhtk7icqespk" alt="Data Card for Spotify">
