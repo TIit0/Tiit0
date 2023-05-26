@@ -20,11 +20,10 @@ clean code is happy code!
 <br /> <br /> <br />
 <table>
 <tr>
-      <td>
-         <img alt="Git-Leon's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TIit0&show_icons=true&theme=dracula">         
+      <td>   
       </td>
       <td>
-         <img alt="Git-Leon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIit0&layout=compact&theme=dracula&hide=roff,tsql,c">
+         <img alt="Tito's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIit0&layout=compact&theme=dracula&hide=roff,tsql,c">
       </td>
    </tr>
 </table>
