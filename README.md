@@ -1,5 +1,5 @@
 ### Hi there! I'm Eduardo Ontiveros 👋
-I am a Frontend developer interested in web and applications, I have been doing develpment for over a year now and I just love it more and more with each new thing I learn. 
+I am a Frontend developer interested in web and applications, I have been doing develpment for over 2 years now and I just love it more and more with each new thing I learn. 
 I am Always looking for the next challenge to develop my skills, I am currently working between Guadalajara Jalisco Mexico, and San Diego California USA.
 I'm always looking to make coding buddies, shoot me a message or a follow!
 
