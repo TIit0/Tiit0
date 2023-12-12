@@ -33,7 +33,7 @@ clean code is happy code!
 </table>
 <br /> <br />
 
-### :musical_note: stuff I listen while working:
+### 🎶 stuff I listen while working:
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=44qk7od8awu5azhtk7icqespk">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=44qk7od8awu5azhtk7icqespk" alt="Data Card for Spotify">
 </a>
