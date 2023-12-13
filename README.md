@@ -24,8 +24,6 @@ clean code is happy code!
 <br /> <br /> <br />
 <table>
 <tr>
-      <td>   
-      </td>
       <td>
          <img alt="Tito's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIit0&layout=compact&theme=dracula&hide=roff,tsql,c">
       </td>
