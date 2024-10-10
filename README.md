@@ -3,7 +3,7 @@ I am a Frontend developer interested in web and applications, I have been doing 
 I am Always looking for the next challenge to develop my skills, I am currently working between Guadalajara Jalisco Mexico, and San Diego California USA.
 I'm always looking to make coding buddies, shoot me a message or a follow!
 
-clean code is happy code!
+Clean code is happy code!
 
 ### 🧰 Languages and Tools
 
